@@ -8,3 +8,4 @@
      ls -la
      git status
      git add .
+     git commit -m "update readme file and create index.html"
