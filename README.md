@@ -21,3 +21,13 @@
           then : git push origin main "will work normally"
 
 #### git push -u origin main : git push
+
+### git branch : to display the branches
+
+### create new branch : git checkout -b feature-readme-test
+
+### switch to main branch : git checkout main
+
+### switch to feature branch : git checkout feature-readme-test
+
+     (without -b because -b is used when creation)
