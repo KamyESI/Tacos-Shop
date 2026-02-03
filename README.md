@@ -11,3 +11,8 @@
      git commit -m "update readme file and create index.html"
      git push origin main
      25.59
+
+### git init :
+
+     this command is used if the project folder is created locally
+     and you want to turn it "git repository"
