@@ -29,3 +29,4 @@
 ### make PR (pull request) from feature branch to main branch
 
      goto to repo github interface, click compare and pull request
+     return to main and : git pull
