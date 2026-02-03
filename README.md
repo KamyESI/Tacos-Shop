@@ -23,3 +23,9 @@
 #### git push -u origin main : git push
 
           changes on feature branch
+
+### push changes to feature branch : git push --set-upstream origin feature-readme-test
+
+### make PR (pull request) from feature branch to main branch
+
+     goto to repo github interface, click compare and pull request
