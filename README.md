@@ -10,7 +10,6 @@
      git add .
      git commit -m "update readme & create index" -m"description"
      git push origin main
-     25.59
 
 ### git init :
 
