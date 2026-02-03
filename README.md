@@ -8,7 +8,7 @@
      ls -la
      git status
      git add .
-     git commit -m "update readme file and create index.html"
+     git commit -m "update readme & create index" -m"description"
      git push origin main
      25.59
 
@@ -16,3 +16,9 @@
 
      this command is used if the project folder is created locally
      and you want to turn it "git repository"
+     git push wont work : we have to create a repo on github
+          then : git remote add origin (copy paste link from repo)
+          to check use : git remote -v
+          then : git push origin main "will work normally"
+
+#### git push -u origin main : git push
